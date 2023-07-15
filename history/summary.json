@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 1741,
-    "timeDay": 1015,
-    "timeWeek": 1830,
-    "timeMonth": 1606,
-    "timeYear": 1741,
+    "time": 1747,
+    "timeDay": 2039,
+    "timeWeek": 1732,
+    "timeMonth": 1580,
+    "timeYear": 1747,
     "dailyMinutesDown": {
       "2023-06-21": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1788,
-    "timeDay": 1939,
-    "timeWeek": 1325,
-    "timeMonth": 1786,
-    "timeYear": 1788,
+    "time": 1777,
+    "timeDay": 1269,
+    "timeWeek": 1304,
+    "timeMonth": 1784,
+    "timeYear": 1777,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1196,
-    "timeDay": 889,
-    "timeWeek": 1164,
-    "timeMonth": 1173,
-    "timeYear": 1196,
+    "time": 1179,
+    "timeDay": 367,
+    "timeWeek": 1032,
+    "timeMonth": 1144,
+    "timeYear": 1179,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 122,
-    "timeDay": 195,
-    "timeWeek": 185,
-    "timeMonth": 137,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2023-07-14": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 121,
+    "timeDay": 185,
+    "timeWeek": 180,
+    "timeMonth": 128,
+    "timeYear": 121,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -92,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-14": 1260,
+      "2023-07-15": 82,
+      "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
